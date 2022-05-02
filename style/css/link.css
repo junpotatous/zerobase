@@ -1,0 +1,14 @@
+/*
+Pseudo-Class Selector
+  (가상 클래스 선택자)
+  
+  link, visited
+*/
+
+a:link {
+  color: tomato;
+}
+
+a:visited {
+  color: yellowgreen;
+}

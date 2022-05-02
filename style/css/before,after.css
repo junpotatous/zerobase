@@ -1,0 +1,22 @@
+/*
+Pseudo-Element Selector
+  (가상 요소 선택자)
+  
+    before, after
+    */
+
+/*
+
+    Pseudo-Class Selector (가상 클래스 선택자)
+    -> selector:____
+
+    Pseudo-Element Selector (가상 요소 선택자)
+    -> selector::_____
+    ->selector:_____
+
+    */
+
+.favorite::after {
+  content: 'MOVIE';
+  color: indianred;
+}

@@ -1,0 +1,26 @@
+/*
+Selector Combinators
+  (선택자 결합)
+
+  하위(), 자식(>), 형제 선택자, 그룹화
+  */
+
+/*1. 일반 형제 선택자 결합 (~)*/
+
+code~p {
+  color: red;
+}
+
+/*2. 인접 형제 선택자 결합 */
+
+code+p {
+  background-color: blue;
+}
+
+/* 3. 그룹화 */
+
+p,
+span,
+code {
+  color: purple;
+}
