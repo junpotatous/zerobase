@@ -1,0 +1,15 @@
+/*
+폰트/텍스트 관련 속성
+
+font-family,
+line-height
+*/
+
+p {
+  font-size: 24px;
+  line-height: 2.0;
+}
+
+.text {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

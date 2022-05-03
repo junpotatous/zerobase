@@ -1,0 +1,25 @@
+/*
+폰트/텍스트 관련 속성
+
+font  (shorthand)
+*/
+
+.default {
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.text {
+  color: red;
+
+
+  font: italic 100 20px/1.7 'Times New Roman', Times, serif;
+
+}
+
+/*
+font-style
+font-weight
+line-height

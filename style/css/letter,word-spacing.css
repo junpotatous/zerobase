@@ -1,0 +1,10 @@
+/*
+폰트/텍스트 관련 속성
+
+letter-spacing, word-spacing
+*/
+
+
+.text {
+  letter-spacing: 5px;
+}
