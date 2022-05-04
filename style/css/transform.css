@@ -1,0 +1,11 @@
+8
+/*
+폰트/텍스트 관련 속성
+
+text-transform
+*/
+
+.container p:last-of-type {
+  color: blue;
+  text-transform: lowercase;
+}

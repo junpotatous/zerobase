@@ -1,0 +1,19 @@
+/*
+폰트/텍스트 관련 속성
+
+word-break
+*/
+
+
+p {
+  width: 100px;
+  background-color: cadetblue;
+}
+
+p[lang="en"] {
+  word-break: break-all;
+}
+
+p[lang="ko"] {
+  word-break: keep-all;
+}

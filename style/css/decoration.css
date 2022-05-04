@@ -1,0 +1,11 @@
+/*
+
+폰트/텍스트 관련 속성
+
+text-decoration
+*/
+
+span {
+  color: blue;
+  text-decoration: line-through red 2px wavy;
+}

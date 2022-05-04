@@ -1,0 +1,18 @@
+/*
+폰트/텍스트 관련 속성
+
+text-aligm
+*/
+
+p,
+span {
+  background-color: rosybrown;
+}
+
+.block {
+  text-align: center;
+}
+
+.inline {
+  text-align: right;
+}
