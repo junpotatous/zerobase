@@ -1,0 +1,26 @@
+/*
+단위와 값
+
+상대길이 - vw, vh
+*/
+
+
+/*
+length
+
+1. 상대길이
+
+a. 글꼴 상대길이 - em, rem..
+b. 뷰포트 백분율길이 - vw,vh ..
+
+2.절대길이 - px ..
+
+*/
+
+.container {
+
+  background-color: coral;
+  width: 50vw;
+  height: 50vw;
+
+}

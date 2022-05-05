@@ -1,0 +1,15 @@
+/*
+크기 - width, height
+*/
+
+.block {
+  width: auto;
+  height: auto;
+  background-color: wheat;
+}
+
+.inline {
+  width: auto;
+  height: auto;
+  background-color: yellowgreen;
+}

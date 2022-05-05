@@ -1,0 +1,12 @@
+/*
+함수 표기법
+
+calc(),min(),max()
+*/
+
+.container {
+  width: calc(100%-50%);
+  height: 200px;
+
+  background-color: wheat;
+}

@@ -1,0 +1,12 @@
+/*
+박스 모델 (Box Model)
+*/
+
+.box {
+  width: 200px;
+  height: 200px;
+
+  padding: 20px;
+  border: 20px solid blue;
+  margin: 20px;
+}
