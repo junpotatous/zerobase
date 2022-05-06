@@ -1,0 +1,14 @@
+/*
+box-sizing
+*/
+/** {
+  box-sizing: border-box;
+} */
+s .box {
+  width: 300px;
+  height: 200px;
+  border: 30px solid blue;
+  padding: 20px;
+
+  background-color: skyblue;
+}

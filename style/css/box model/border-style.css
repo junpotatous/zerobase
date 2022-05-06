@@ -1,0 +1,17 @@
+/*
+테두리 -
+border-style,
+border-width,
+border-color
+*/
+
+.box {
+  width: 300px;
+  height: 300px;
+
+  border-style: dotted solid;
+  border-width: 10px;
+  border-color: red blue;
+
+  background-color: rgb(175, 207, 233);
+}
