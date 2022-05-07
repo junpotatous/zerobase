@@ -1,0 +1,28 @@
+/*
+레이아웃
+
+z-index
+*/
+
+div {
+  width: 150px;
+  height: 150px;
+  background-color: blanchedalmond;
+  border: 3px solid orangered;
+}
+
+#box2,
+#box3 {
+  margin-top: -30px;
+}
+
+#box2 {
+  margin-left: 40px;
+
+  position: relative;
+}
+
+#box3 {
+  position: relative;
+  z-index: -1;
+}

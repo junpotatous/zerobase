@@ -1,0 +1,29 @@
+/*
+레이아웃
+
+요소를 없애는 방법-
+display: none,
+visibility:hidden
+*/
+
+div {
+  height: 200px;
+  border: solid;
+}
+
+.box2 {
+  visibility: hidden;
+
+}
+
+.box1 {
+  background-color: darkorange;
+}
+
+.box2 {
+  background-color: greenyellow;
+}
+
+.box3 {
+  background-color: dodgerblue;
+}

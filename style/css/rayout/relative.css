@@ -1,0 +1,23 @@
+/*
+레이아웃
+
+position-relative
+*/
+
+
+div {
+  width: 200px;
+  height: 200px;
+  border: 5px solid orangered;
+  margin-left: 150px;
+}
+
+#box {
+  background-color: peachpuff;
+
+
+  position: relative;
+
+  top: 50px;
+  left: -80px;
+}
