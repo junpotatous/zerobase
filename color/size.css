@@ -1,0 +1,18 @@
+/*
+background
+*/
+
+.box {
+  height: 400px;
+
+  border: blue 5px solid;
+
+  background-image: url("https://interactive-examples.mdn.mozilla.net/media/examples/hand.jpg");
+
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: cadetblue;
+
+  /* contain / cover */
+
+}

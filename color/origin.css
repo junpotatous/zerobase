@@ -1,0 +1,17 @@
+/*
+background
+*/
+
+.box {
+  width: 300px;
+  height: 500px;
+
+  border: 30px dashed blue;
+  padding: 30px;
+
+  background-image: url("https://interactive-examples.mdn.mozilla.net/media/examples/moon.jpg");
+  background-repeat: no-repeat;
+
+  background-origin: border-box;
+
+}
