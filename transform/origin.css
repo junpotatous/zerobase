@@ -1,0 +1,11 @@
+/*
+Transform (변형)
+*/
+
+#bear {
+  width: 300px;
+  margin: 100px;
+
+  transform: rotate(45deg);
+  transform-origin: top left;
+}

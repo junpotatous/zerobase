@@ -1,0 +1,9 @@
+/*
+Transform (변형)
+*/
+
+#bear {
+  width: 400px;
+
+  transform: translate(-50px)
+}
