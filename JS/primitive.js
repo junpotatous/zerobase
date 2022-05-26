@@ -2,7 +2,7 @@
  * 
  * JS Type
  * -원시(primitive)
- * -객체(Reference)
+ * -객체, 참조(Reference)
  */
 
 const bool = false;
