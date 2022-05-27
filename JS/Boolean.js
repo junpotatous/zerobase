@@ -9,3 +9,10 @@ console.log(!!('STRING'));
 console.log(!!0);
 console.log(!!1);
 
+
+
+if () {
+
+} else {
+
+}
