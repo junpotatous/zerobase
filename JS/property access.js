@@ -2,8 +2,8 @@
  * 프로퍼티 접근자 (getter, setter)
  */
  const person = {
-	_firstName: 'jang',
-	lastName: 'hyeon-seok',
+	_firstName: 'Choi',
+	lastName: 'jun-ho',
 
 	get firstName() {
 		return this._firstName.toUpperCase();
