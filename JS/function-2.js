@@ -4,9 +4,9 @@ function recursive(num) {
   recursive(num-1);
   console.log(num);
 }
-*/
-recursive(3);
 
+recursive(3);
+*/
 function recursive(num) {
   if(num == 0) return 0;
   return num + recursive(num - 1);
