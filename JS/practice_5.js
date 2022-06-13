@@ -16,6 +16,11 @@ function answer(s, e) {
 
     sequence.push(e);
   }
+  /*
+  13 7 6
+  s e sum
+    s e
+  */
 
   return sequence;
 }
