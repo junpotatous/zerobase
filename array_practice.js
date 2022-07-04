@@ -15,7 +15,7 @@ function answer(nums) {
   
 
   // 2. 최소값에 해당하는 위치 index
-  let count = 0;
+  let count = 0;x
   for (let i = 0; i < nums.length; i++){
     if (min == nums[i]) {
       result[count++] = i;
